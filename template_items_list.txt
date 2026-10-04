@@ -1,0 +1,20 @@
+[
+	{
+		"url" = "insert URL",
+		"lowest_price" = null,
+		"desired_price" = 00.0,
+		"date" == null
+	},
+	{
+		"url" = "insert URL",
+		"lowest_price" = null,
+		"desired_price" = 00.0,
+		"date" == null
+	},
+	{
+		"url" = "insert URL",
+		"lowest_price" = null,
+		"desired_price" = 00.0,
+		"date" == null
+	}
+]
